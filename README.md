@@ -23,7 +23,7 @@ Proyek ini menganalisis dataset e-commerce Brasil (Olist) yang mencakup 100 ribu
     - **Champions:** ~1.9rb pelanggan bernilai tinggi yang harus dipertahankan.
 
 ## Cara Menjalankan
-1. Buka notebook [Link Google Colab Kamu Disini].
+1. Buka notebook [Link Google Colab ].
 2. Pastikan kamu memiliki koneksi internet untuk menarik data via `kagglehub`.
 3. Jalankan sel secara berurutan.
 
