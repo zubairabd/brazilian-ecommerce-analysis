@@ -28,5 +28,6 @@ Proyek ini menganalisis dataset e-commerce Brasil (Olist) yang mencakup 100 ribu
 
 ## Visualisasi
 
-![Customer Segmentation](images/treemap_segmentasi.png)
-![Revenue Map](images/peta_brazil.png)
+![Distribusi Pesanan](images/distribusi_pesananan.png)
+![Peta Kepadatan](images/peta_padat.png)
+![Tree Map](images/proporsi_RFM.png)
